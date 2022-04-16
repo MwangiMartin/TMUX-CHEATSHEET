@@ -29,7 +29,7 @@ ctrl + b   &
 
 ####    Previous window
 ```sh
-ctrl + b   P
+ctrl + b   p
 ```
 
 ####    Next window
